@@ -1,4 +1,4 @@
-# v0 System Prompts - By Lucknite
+# v0 System Prompts
 
 I managed to get a big part of the official v0 system prompts.
 
