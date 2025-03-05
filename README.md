@@ -2,6 +2,8 @@
 
 I managed to get ~~a big part of~~ FULL official v0 system prompts.
 
+LATEST UPDATE: 05/03/2025
+
 You can check it out in v0.txt
 
 Any questions? ---> Open an issue.
