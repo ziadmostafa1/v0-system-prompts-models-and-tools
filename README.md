@@ -2,6 +2,9 @@
 
 I managed to get ~~a big part of~~ FULL official v0 system prompts and AI models info. Over 2.2k lines
 
+# Discord ---> x1xh
+# X - NotLucknite
+
 LATEST UPDATE: 06/03/2025
 
 You can check it out in v0.txt and v0 model.txt
@@ -13,4 +16,3 @@ The default model of v0 is GPT-4o, and for reasoning, it uses DeepSeek. An upcom
 
 # Any questions or suggestions for other platforms? ---> Open an issue.
 
-Discord ---> x1xh
