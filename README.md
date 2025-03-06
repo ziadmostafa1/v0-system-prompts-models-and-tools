@@ -1,6 +1,6 @@
 # FULL v0 System Prompts
 
-I managed to get ~~a big part of~~ FULL official v0 system prompts. Over 1.4k lines.
+I managed to get ~~a big part of~~ FULL official v0 system prompts. Over 1.4k lines
 
 LATEST UPDATE: 05/03/2025
 
