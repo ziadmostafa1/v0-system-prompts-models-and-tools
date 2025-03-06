@@ -2,8 +2,8 @@
 
 I managed to get ~~a big part of~~ FULL official v0 system prompts and AI models info. Over 2.2k lines
 
-# Discord ---> x1xh
 # X ---> NotLucknite
+# Discord ---> x1xh
 
 LATEST UPDATE: 06/03/2025
 
