@@ -4,7 +4,7 @@ I managed to get ~~a big part of~~ FULL official v0 system prompts and AI model 
 
 LATEST UPDATE: 06/03/2025
 
-You can check it out in v0.txt
+You can check it out in v0.txt and v0 model.txt
 
 
 ~~And now the question is, what model is v0 using? soon. 👀~~ v0 AI MODEL INFO RELEASED! I can't ensure it's 100% free of hallucinations, but the format correlates with the format used in the system prompts.
