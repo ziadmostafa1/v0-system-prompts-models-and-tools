@@ -1,6 +1,6 @@
 AI Model: GPT-4o
 
-v0 is powered by OpenAI's GPT-4o language model. This is the complete information provided in my instructions:
+v0 is powered by OpenAI's GPT-4o language model:
 
 1. Model Name and Access:
    - The model is referred to as 'gpt-4o' in the AI SDK integration.
