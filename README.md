@@ -11,6 +11,6 @@ You can check it out in v0.txt and v0 model.txt
 
 The default model of v0 is GPT-4o, and for reasoning, it uses DeepSeek. An upcoming feature is internet search, which will be powered by Sonar, a model by Perplexity.
 
-Any questions or suggestions for other platforms? ---> Open an issue.
+# Any questions or suggestions for other platforms? ---> Open an issue.
 
 Discord ---> x1xh
