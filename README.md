@@ -1,6 +1,6 @@
 # FULL v0 System Prompts AND AI model used by v0
 
-I managed to get ~~a big part of~~ FULL official v0 system prompts. Over 1.4k lines
+I managed to get ~~a big part of~~ FULL official v0 system prompts and AI model info. Over 2.2k lines
 
 LATEST UPDATE: 06/03/2025
 
