@@ -1,6 +1,6 @@
 # FULL v0 System Prompts, AI models and tools used by v0
 
-I managed to get ~~a big part of~~ FULL official v0 system prompts and AI models info. Over 2.8k lines
+I managed to get ~~a big part of~~ FULL official v0 system prompts, AI models and tools info. Over 2.8k lines
 
 # What do you want to see next? ---> Open an issue.
 
