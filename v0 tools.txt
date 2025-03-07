@@ -1,5 +1,3 @@
-Full Detailed Information on Selected V0 Tools and Capabilities
-
 1. MDX Components:
 
 a) CodeProject:
