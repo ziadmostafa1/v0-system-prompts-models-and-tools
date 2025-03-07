@@ -10,6 +10,8 @@ You can check it out in v0.txt, v0 model.txt and v0 tools.txt
 
 # There have been some allegations of the VP of AI of v0, Jared Palmer, saying that the system prompt is a hallucination. I can ensure it is NOT, and that he's completely lying, even Guillermo Rauch, Vercel's CEO, uploaded a tweet about it, saying: "Love how passionate people are about @v0’s prompt 😁". 
 
+https://x.com/agentifysh/status/1898062863165735186?s=46
+
 ~~And now the question is, what model is v0 using? soon. 👀~~ v0 AI MODELS INFO RELEASED! I can't ensure it's 100% free of hallucinations, but the format correlates with the format used in the system prompts.
 
 The default model of v0 is GPT-4o, and for reasoning, it uses DeepSeek. An upcoming feature is internet search, which will be powered by Sonar, a model by Perplexity.
